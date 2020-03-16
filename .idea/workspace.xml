@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="636d0605-c94a-4dee-ac54-1857ad895f8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2Jin3vzQVezBRvLJNK5qMzrBl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ngram" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MichaelFitzgerald\Documents\VCU\CMSC416\POSTagging\Provided" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tagger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POSTagging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tagger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tagger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="636d0605-c94a-4dee-ac54-1857ad895f8b" name="Default Changelist" comment="" />
+      <created>1582134884387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582134884387</updated>
+      <workItem from="1582134941528" duration="1587000" />
+      <workItem from="1582209239642" duration="1218000" />
+      <workItem from="1583088477511" duration="9016000" />
+      <workItem from="1583158480185" duration="32201000" />
+      <workItem from="1583459440971" duration="3656000" />
+      <workItem from="1583527778564" duration="1396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="142" key="FileChooserDialogImpl" timestamp="1583460446408">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="804" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583460446408" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1583270927016">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583270927016" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1583270927015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583270927015" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1583270927015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583270927015" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1583270927015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583270927015" />
+    <state width="1323" height="255" key="GridCell.Tab.1.bottom" timestamp="1583270927009">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583270927009" />
+    <state width="1323" height="255" key="GridCell.Tab.1.center" timestamp="1583270927009">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583270927009" />
+    <state width="1323" height="255" key="GridCell.Tab.1.left" timestamp="1583270927009">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583270927009" />
+    <state width="1323" height="255" key="GridCell.Tab.1.right" timestamp="1583270927009">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583270927009" />
+    <state width="348" height="387" key="XDebugger.FullValuePopup" timestamp="1583096244320">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="348" height="387" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1583096244320" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583527782298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583527782298" />
+    <state x="244" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583171332108">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="244" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1583171332108" />
+    <state x="-7" y="0" width="697" height="775" key="dock-window-1" timestamp="1583181588232">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-7" y="0" width="697" height="775" key="dock-window-1/0.0.1366.768@0.0.1366.768" timestamp="1583181588232" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/POSTagging$tagger.coverage" NAME="tagger Coverage Results" MODIFIED="1583270452235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
